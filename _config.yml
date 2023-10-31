@@ -164,7 +164,7 @@ content:
           - Implemented an algorithm to prevent continuous duplicate text in each frame
       # 뭐더라
       - layout: left
-        title: Mwodeola (Korean: What is it?)
+        title: Mwodeola (means, What is it?)
         caption: 11/2021 - 03/2022
         sub_title: Android, Backend
         additional_links:

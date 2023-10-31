@@ -14,7 +14,7 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Seongrok Cho
+name: Seongrok, Cho
 title: Android Developer
 email: jsl663663@gmail.com
 website: github.com/dev-loggi
@@ -40,12 +40,12 @@ github_username: dev-loggi
 
 # Additional icon links
 additional_links:
-- title: Blog
-  icon: fas fa-blog
-  url: https://jsl663.tistory.com
-- title: YouTube Link
-  icon: fab fa-youtube
-  url: https://www.youtube.com/channel/UCYPnZS7wsGgdaCM1GYAaKrg
+  - title: Blog
+    icon: fas fa-blog
+    url: https://jsl663.tistory.com
+  - title: YouTube Link
+    icon: fab fa-youtube
+    url: https://www.youtube.com/channel/UCYPnZS7wsGgdaCM1GYAaKrg
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
@@ -57,17 +57,15 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: |
-  안녕하세요. 디자인에 관심이 많은 안드로이드 개발자 조성록입니다<br/><br/>
+  Hello, I'm Android developer Seongrok Cho with a keen interest in design.<br/><br/>
   
-  학부 시절 C#으로 [윈도우 게임](https://youtu.be/vx7aT_5YpIA)을 만들 때부터 디자인에 대한 남다른 관심을 보이며 **UI/UX 및 디자인 트렌드**의 높은 이해도를 갖게 되었습니다.<br/>
-  이는 앱 개발에서도 이어져 **안드로이드 뷰 시스템에 대한 이해도**와 다양한 CustomView 활용 및 Animation/Transition, 유저의 터치 인터렉션, 그리고 공통 디자인 시스템 모듈화 등 **UI 개발 역량**을 꾸준히 증진해왔습니다.
-  <br/><br/>
+  Since my undergraduate years when I developed [Windows games](https://youtu.be/vx7aT_5YpIA) using C#, I have shown a strong passion for design and developed a deep understanding of **UI/UX and design trends**.<br/>
+  This interest has continued into app development, where I've gained **proficiency in Android's view system**. I've consistently improved my **UI development skills** by delving into various aspects, such as CustomView utilization, animation and transitions, user touch interactions, and the modularization of common design systems.<br/><br/>
   
-  **프로그래밍 역량과 개발 기술력** 향상에 대해서도 꾸준히 노력해 왔습니다.<br/>
-  IT 회사에서 6개월간 인턴으로 근무하며 **앱 서비스 개발 및 배포 경험**을 하였으며, 이후에도 지속적인 프로젝트 개발을 통해 디자인 패턴과 클린 아키텍처, Jetpack 라이브러리 등 최신 **고급 기술 스택**의 활용 능력과 이해도를 높여왔습니다.
-  <br/><br/>
+  I have also put in continuous efforts to enhance my **programming skills and development capabilities**.<br/>
+  During a 6-month internship at an IT company, I gained valuable **experience in app development and deployment**. Subsequently, I have been involved in ongoing project development, elevating my proficiency and comprehension of **cutting-edge technology stacks**, including design patterns, clean architecture, and Jetpack libraries.<br/><br/>
   
-  최근에는 팀 프로젝트에서 프론트/백엔드 개발을 넘어 **기술 팀장**의 역할을 맡아 시스템을 설계하고, 팀에 기술적인 지원을 하며 개발에 대한 시야를 한층 더 넓힐 수 있었던 경험을 갖고 있습니다.
+  In recent times, I had the opportunity to take on the role of a **technical team leader** in a team project. This involved system design and providing technical support to the team, broadening my perspective on development even further.
 
 content:
   # Experience
@@ -75,49 +73,49 @@ content:
     layout: list
     content:
       - layout: left
-        title: 판게아솔루션
+        title: Pangaea Solution
         # link: boringcompany.com
         # link_text: boringcompany.com
-        sub_title: 안드로이드 앱 개발 (인턴)
-        caption: 2017.03 - 2017.08
+        sub_title: Android Developer (Intern)
+        caption: 03/2017 - 08/2017
         additional_links:
           - title: Google Play Link
             icon: fab fa-google-play
             url: https://play.google.com/store/apps/details?id=com.goalgetter.goalgetterapp
         quote: >
-          소셜 목표 일기 "GoalGetter" SNS 모바일 앱 서비스 개발
+          Development of the Social Goal Diary 'GoalGetter' SNS Mobile App Service
         description: |
           __`Android` `Java`__
-          - 서비스 초기 1.0 버전 개발 및 테스트, 의뢰인 피드백 반영, 배포 작업
-          - 회원, 게시물, 메신저, 광고 등 총 23개 화면 및 기능 개발
-          - ConstraintLayout, RecyclerView 도입
-          - SQLite를 활용하여 메신저 성능 개선
+          - Development and testing of the initial 1.0 version of the service, incorporating client feedback, and deployment tasks.
+          - Development of a total of 23 screens and functionalities, including member profiles, posts, messaging, and advertising features.
+          - Implementation of ConstraintLayout and RecyclerView.
+          - Enhancement of messenger performance utilizing SQLite.
           
-          [개발 내용 더보기](https://dev-loggi.notion.site/GoalGetter-d3a18b465fad46519bf5f29e45e6c904?pvs=4)
+          [See More about Development](https://dev-loggi.notion.site/GoalGetter-d3a18b465fad46519bf5f29e45e6c904?pvs=4)
 
   # Education
   - title: Education
     layout: list
     content:
       - layout: left
-        title: KT AIVLE School 3기
-        caption: 2023.02 - 2023.07
+        title: KT AIVLE School 3rd Gen.
+        caption: 02/2023 - 07/2023
         sub_title: KT
         link: https://aivle.kt.co.kr/
         description: |
-          - 기업 실무형 AI 개발자 교육
-          - AI 모델링을 위한 데이터 분석, 머신러닝, 딥러닝(CV, NLP) 이론 및 실습
-          - AI 서비스 개발을 위한 MLOps, FE, BE, AWS 클라우드 이론 및 실습
-          - 교과목별 학습 과정에 대한 실습을 위한 미니 프로젝트 수행
-          - 빅프로젝트, AI 기반 대형생활폐기물 간편 배출 앱 “퍼니버니” (우수상🏆)
+          - Practical AI developer training for the industry
+          - Theory and practical experience in data analysis, machine learning, and deep learning (Computer Vision, Natural Language Processing) for AI modeling
+          - Theory and practice of MLOps, Front-End, Back-End, and AWS Cloud for AI service development
+          - Completion of mini-projects for hands-on experience in each subject's curriculum
+          - 🏆 Awarded for the major project: "FuniBuni" an AI-based waste disposal app for convenient disposal of large household items
       - layout: left
-        title: SW 알고리즘 특강
-        caption: 2022.07 - 2023.08 (6주)
-        sub_title: 삼성전자
+        title: SW Algorithm Course
+        caption: 07/2022 - 08/2023
+        sub_title: Samsung Electronics
         description: |
-          - SW 자료구조 및 알고리즘 이론 강의 및 실전 문제 풀이
-          - 주어진 문제에 적합한 자료구조를 직접 설계 및 구현
-          - SW Expert Academy - Professional(Level B) 취득
+          - Theoretical lectures on software data structures and algorithms, along with practical problem-solving sessions
+          - Design and implementation of data structures suitable for given problems
+          - Attainment of SW Expert Academy - Professional (Level B)
 
   # Projects
   - title: Projects
@@ -125,8 +123,8 @@ content:
     content:
       # 퍼니버니
       - layout: left
-        title: 퍼니버니
-        caption: 2023.06 - 2023.07
+        title: FuniBuni
+        caption: 06/2023 - 07/2023
         sub_title: Tech Lead, Android
         additional_links:
           - title: Github Link
@@ -136,17 +134,17 @@ content:
             icon: fab fa-youtube
             url: https://youtu.be/N-wBxebZWTY
         quote: >
-          AI 기반 대형생활폐기물 간편 배출 앱
+          AI-Based Convenient Disposal App for Large Household Waste
         description: |
           __`Android` `Kotlin` `MVVM` `Clean Architecture`__
-          - KT AIVLE School 6인 팀 프로젝트 (우수상🏆)
-          - AI 모델 설계, 시스템 아키텍처, ERD, API 설계, 테스트, 서버 구축 등 <mark>기술 팀장 역할</mark> 수행
-          - <mark>Coroutines & Flow</mark> 를 활용하여 비동기 프로그래밍과 <mark>UiState 관리</mark>
-          - 터치 애니메이션 효과, 커스텀 다이얼로그 등 <mark>공통 Design System 모듈화</mark>
+          - KT AIVLE School 6-member team project (Excellent Award🏆)
+          - Performance of <mark>the role of Technical Team Leader</mark>, including AI model design, system architecture, ERD, API design, testing, and server setup
+          - Utilized <mark>Coroutines & Flow</mark> for asynchronous programming and <mark>UiState management</mark>
+          - Implemented touch animation effects, custom dialogs, and <mark>modularization of a common Design System</mark>
       # 동영상 Ctrl+F
       - layout: left
-        title: 동영상 Ctrl＋F
-        caption: 2023.04 - 2023.06
+        title: Video Ctrl＋F
+        caption: 04/2023 - 06/2023
         sub_title: Tech Lead, Frontend
         additional_links:
           - title: Github Link
@@ -156,18 +154,18 @@ content:
             icon: fab fa-youtube
             url: https://youtu.be/UvRD_n5bfaQ
         quote: >
-          AI 기반 유튜브 동영상 속 텍스트 검색 서비스 (Chrome Extensions)
+          AI-Based Text Search Service in YouTube Videos (Chrome Extensions)
         description: |
           __`HTML` `CSS` `JavaScript`__
-          - K-Digital Training Hackathon 5인 팀 프로젝트 (예선 통과)
-          - 유튜브 동영상에서 텍스트 검색 기능 (Ctrl+F) 및 화면 구현
-          - SPA, CORS 문제 해결
-          - 이미지 유사도 알고리즘 SSIM 을 통해 AI 모델 추론 시간을 대폭 단축
-          - 프레임마다 연속적으로 중복되는 텍스트 방지를 위한 알고리즘 구현
+          - K-Digital Training Hackathon 5-member team project (Passed the preliminary round)
+          - Implemented text search functionality (Ctrl+F) and screen rendering for YouTube videos
+          - Solved Single Page Application (SPA) and Cross-Origin Resource Sharing (CORS) issues
+          - Drastically reduced AI model inference time using the SSIM image similarity algorithm
+          - Implemented an algorithm to prevent continuous duplicate text in each frame
       # 뭐더라
       - layout: left
-        title: 뭐더라
-        caption: 2021.11 - 2022.03
+        title: Mwodeola (Korean: What is it?)
+        caption: 11/2021 - 03/2022
         sub_title: Android, Backend
         additional_links:
           - title: Github Link
@@ -177,14 +175,14 @@ content:
             icon: fab fa-youtube
             url: https://youtu.be/JI3wjMUU__s
         quote: >
-          웹사이트 및 어플 계정의 아이디/비밀번호 기록 관리 안드로이드 앱
+          Android App for Managing Website and App Account ID/Password Records
         description: |
           __`Android` `Kotlin` `MVP`__
-          - 앱 서비스 개발 1인 프로젝트 (기획, 설계, 디자인, 보안, 앱, 서버 개발)
-          - 회원 기능, 계정 아이디/비밀번호 저장, 앱 화면 잠금, 계정 비밀번호 확인 시 암호 인증(이중 잠금), 로그인 자동 완성 서비스(Android Autofillframework) 기능 개발
-          - 다중 계정, SNS 아이디로 가입한 계정에 대한 별도 로직 및 DB 설계
-          - UI/UX 향상을 위해 각 계정마다 썸네일 아이콘 사용 및 [CustomIconView 개발](https://jsl663.tistory.com/43)
-          - 다양한 [커스텀뷰 및 Animation/Transition](https://jsl663.tistory.com/49) 을 활용하여 디자인 완성도 향상
+          - Solo project for app development, including planning, design, security, app and server development
+          - Developed features such as user registration, account ID/password storage, app screen locking, dual-lock authentication for account password confirmation, and automatic login completion service using Android's Autofill framework
+          - Implemented separate logic and database design for multiple accounts and accounts registered with social media IDs
+          - Enhanced UI/UX by using thumbnail icons for each account and [developing a CustomIconView](https://jsl663.tistory.com/43)
+          - Improved design quality by utilizing various [custom views and animation/transitions](https://jsl663.tistory.com/49).
 
   # Side Projects
   - title: Side Projects
@@ -192,11 +190,11 @@ content:
     content:
       # 카카오버스 클론 앱
       - layout: left
-        title: 카카오버스 클론 앱
-        caption: 2019.09 - 2019.11
+        title: KakaoBus Clone App
+        caption: 09/2019 - 11/2019
         sub_title: Android
-#        link: https://github.com/dev-loggi/kakaobus-clone
-#        link_text: Github Link
+        #        link: https://github.com/dev-loggi/kakaobus-clone
+        #        link_text: Github Link
         additional_links:
           - title: Github Link
             icon: fab fa-github
@@ -205,19 +203,19 @@ content:
             icon: fab fa-youtube
             url: https://youtu.be/mzymEDLK_8I
         quote: >
-          카카오버스 앱 일부 기능 및 화면 최대한 비슷하게 구현해보기
+          Attempting to Implement Certain Functions and Screens of the KakaoBus App as Closely as Possible
         description: |
           __`Android` `Kotlin` `MVP`__
-          - 공공 데이터 포털 내 "정류소 및 버스 도착 정보 API" 연동
-          - 정류소 검색, 정류소 별 버스 노선 및 실시간 도착 정보 안내, 버스 노선 및 정류소 즐겨찾기, 승차 알림 기능 구현
-          - 버스 노선 별 예상 도착 시간을 **매 초마다 실시간으로 갱신**하는 **타이머 구현**
+          - Integration of "Bus Stop and Bus Arrival Information API" from the Public Data Portal.
+          - Implementation of bus stop search, bus route and real-time arrival information by bus stop, bus route and stop favorites, and boarding notification features.
+          - Implementation of a **timer** that updates estimated arrival times for each bus route **in real-time, every second**.
       # WATCHA 클론 앱
       - layout: left
-        title: WATCHA 클론 앱
+        title: WATCHA Clone App
         caption: 2019.02 - 2019.04
         sub_title: Android
-#        link: https://github.com/dev-loggi/watcha-clone
-#        link_text: Github Link
+        #        link: https://github.com/dev-loggi/watcha-clone
+        #        link_text: Github Link
         additional_links:
           - title: Github Link
             icon: fab fa-github
@@ -226,13 +224,13 @@ content:
             icon: fab fa-youtube
             url: https://youtu.be/lfmCE_RQ7pY
         quote: >
-          영화 OTT 서비스 WATCHA 앱 일부 기능 및 화면 최대한 비슷하게 구현해보기
+          Attempting to Mimic Certain Features and Screens of the WATCHA Movie OTT Service App as Closely as Possible
         description: |
           __`Android` `Kotlin` `MVP`__
-          - 메인 화면, 영화 검색, 영화 디테일 정보, 평점 매기기, 동영상 플레이어 기능 구현
-          - **Animation & Transition** 효과 구현
-          - 동영상 플레이어에 **Exoplayer** 라이브러리 활용. **터치 인터페이스** 구현
-          
+          - Implementation of main screen, movie search, movie details, rating submission, and video player functionalities.
+          - Implementation of Animation & Transition effects.
+          - Utilization of the **ExoPlayer** library for the video player and implementation of **touch interface features**.
+  
 
   # Skills
   - title: Skills
@@ -240,7 +238,7 @@ content:
     content:
       - layout: left
         title: Android
-        sub_title: (중급)
+        sub_title: (Intermediate)
         description: |
           - Kotlin, Java
           - Multi Module, Clean Architecture, Repository Pattern, MVVM, MVP
@@ -251,7 +249,7 @@ content:
           - CustomView, Animator, LayoutTransition, MotionLayout, Material Design 3
       - layout: left
         title: Backend
-        sub_title: (하급)
+        sub_title: (Classroom Study)
         description: |
           - AWS EC2, S3
           - NGINX, uWSGI
@@ -259,7 +257,7 @@ content:
           - REST API, JWT
       - layout: left
         title: AI
-        sub_title: (하급)
+        sub_title: (Classroom Study)
         description: |
           - Python, Jupyter Notebook
           - numpy, pandas, matplotlib, seaborn
@@ -267,7 +265,7 @@ content:
           - ML, DL(NLP, CV)
       - layout: left
         title: Frontend
-        sub_title: (기초)
+        sub_title: (Beginner)
         description: |
           - HTML, CSS, JavaScript
           - Chrome Extensions
@@ -278,13 +276,13 @@ content:
     content:
       - layout: left
         title: AICE (Associate)
-        sub_title: ㈜케이티, ㈜한국경제신문 공동
-        caption: 2023.04.21
+        sub_title: KT Corporation and The Korea Economic Daily, Jointly
+        caption: 04/21/2023
         link: https://aice.study/
         description: |
-          - AICE (AI Certificate for Everyone) 인공지능 활용능력 평가 자격증
-          - 데이터 분석, 데이터 전처리, 머신러닝/딥러닝 모델링, 모델 성능 평가
-          - Scikit-learn, Tensorflow
+          - AICE (AI Certificate for Everyone) Artificial Intelligence Utilization Competency Certification.
+          - Competencies in data analysis, data preprocessing, machine learning/deep learning modeling, and model performance evaluation.
+          - Skills in Scikit-learn and Tensorflow.
 
 # Footer
 footer_show_references: true
@@ -298,4 +296,4 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
